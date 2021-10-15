@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EmptyActivityDemo</string>
+    <string name="main_activity_titulo">Hola Mundo</string>
+</resources>
